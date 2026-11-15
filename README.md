@@ -30,10 +30,15 @@ pueden consultarse en el historial de Git del documento correspondiente.
 
 ## Estructura del repositorio
 
+Cada aplicación tiene su propia carpeta. Las futuras apps de @natanaelr16 se
+publicarán aquí con el mismo formato.
+
 ```text
 Politicas-de-privacidad/
 ├── README.md
-└── turnosapp/
+├── turnosapp/
+│   └── POLITICA_PRIVACIDAD.md
+└── <proxima-app>/           # una carpeta por cada app futura
     └── POLITICA_PRIVACIDAD.md
 ```
 
